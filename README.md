@@ -1,3 +1,3 @@
 # hello-world
-just for initial testing
-testing testing
+just for initial testing.
+Total Quality Managment.
